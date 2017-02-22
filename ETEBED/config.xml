@@ -1,0 +1,3 @@
+<config window_width="1024" window_height="768" sphere_radius="0.05" wall_size="10">
+    <bgcolor bottom_r="0" bottom_g="0" bottom_b="0" top_r="0" top_g="0" top_b="0" />
+</config>
